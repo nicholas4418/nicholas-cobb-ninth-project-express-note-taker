@@ -14,7 +14,6 @@
 - This project can be used as a refresher of sorts on some of the basic concepts of using express.js.
 
 ## Screenshot
-- Both screenshots were taken early in the morning, thus all the timeblocks are colored green.
 ![Screenshot 1](screenshots/Screenshot%201.png)
 ![Screenshot 2](screenshots/Screenshot%202.png)
 ![Screenshot 3](screenshots/Screenshot%203.png)
