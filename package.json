@@ -1,13 +1,20 @@
 {
-  "name": "note-taker",
+  "name": "nicholas-cobb-ninth-project-express-note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express Note Taker",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholas4418/nicholas-cobb-ninth-project-express-note-taker.git"
+  },
+  "author": "Nicholas Cobb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholas4418/nicholas-cobb-ninth-project-express-note-taker/issues"
+  },
   "dependencies": {
     "express": "^4.16.4",
     "uniqid": "^5.4.0"
